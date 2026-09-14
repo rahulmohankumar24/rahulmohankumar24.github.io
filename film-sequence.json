@@ -1,0 +1,86 @@
+[
+  {
+    "src": "assets/stone-window.jpg",
+    "alt": "A small stone window framing rooftops and the sea.",
+    "title": "A window to the sea",
+    "chapter": "Dubrovnik, Croatia"
+  },
+  {
+    "src": "assets/rooftops.jpg",
+    "alt": "Terracotta rooftops overlooking the sea.",
+    "title": "The rooftops",
+    "chapter": "Dubrovnik, Croatia"
+  },
+  {
+    "src": "assets/city-walls.jpg",
+    "alt": "A walk along city walls above the coastline in golden light.",
+    "title": "Along the walls",
+    "chapter": "Dubrovnik, Croatia"
+  },
+  {
+    "src": "assets/harbor.jpg",
+    "alt": "Boats beneath stone harbor walls.",
+    "title": "The harbor",
+    "chapter": "Dubrovnik, Croatia"
+  },
+  {
+    "src": "assets/harbor-boats.jpg",
+    "alt": "Small boats beside a stone fortress and hillside houses.",
+    "title": "Boats in the harbor",
+    "chapter": "Dubrovnik, Croatia"
+  },
+  {
+    "src": "assets/shoreline.jpg",
+    "alt": "Swimmers on a rocky shoreline beneath an open blue sky.",
+    "title": "The shoreline",
+    "chapter": "Dubrovnik, Croatia"
+  },
+  {
+    "src": "assets/rock-pools.jpg",
+    "alt": "Sunlit rock pools beside the blue sea.",
+    "title": "Rock pools",
+    "chapter": "Dubrovnik, Croatia"
+  },
+  {
+    "src": "assets/swimming-cove.jpg",
+    "alt": "Swimmers in a green rocky cove beneath pine branches.",
+    "title": "An afternoon swim",
+    "chapter": "Dubrovnik, Croatia"
+  },
+  {
+    "src": "assets/waterfall-pool.jpg",
+    "alt": "Waterfalls falling into a turquoise pool surrounded by trees.",
+    "title": "Below the falls",
+    "chapter": "Plitvice National Park, Croatia"
+  },
+  {
+    "src": "assets/waterfalls.jpg",
+    "alt": "Water cascading over a broad cliff surrounded by greenery.",
+    "title": "The falls",
+    "chapter": "Plitvice National Park, Croatia"
+  },
+  {
+    "src": "assets/stone-bridge.jpg",
+    "alt": "An arched stone bridge over a river, with a town and mountains behind.",
+    "title": "Across the river",
+    "chapter": "Bosnia"
+  },
+  {
+    "src": "assets/stone-street.jpg",
+    "alt": "Weathered stone buildings and parked cars in afternoon light.",
+    "title": "Along the street",
+    "chapter": "Bosnia"
+  },
+  {
+    "src": "assets/evening-coast.jpg",
+    "alt": "White houses and trees overlooking the sea in warm evening light.",
+    "title": "Evening on the coast",
+    "chapter": "Hvar, Croatia"
+  },
+  {
+    "src": "assets/sunset-islands.jpg",
+    "alt": "A pastel sky above islands and the sea at dusk.",
+    "title": "After sunset",
+    "chapter": "Hvar, Croatia"
+  }
+]

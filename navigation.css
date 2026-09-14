@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap');
+body .site-nav{position:fixed;inset:0 0 auto;z-index:50;display:flex;justify-content:flex-end;align-items:center;margin:0;padding:18px 5vw;background:linear-gradient(180deg,rgba(5,13,16,.58),rgba(5,13,16,0));border:0;pointer-events:none;box-sizing:border-box}
+body .site-nav nav{display:flex;align-items:center;gap:25px;pointer-events:auto}
+body .site-nav a{display:inline-flex;align-items:center;min-height:40px;color:#f8f5ee;text-decoration:none;font:400 12px/1.5 'IBM Plex Mono',monospace;text-shadow:0 1px 8px #0008}
+body .site-nav a[aria-current="page"]{color:#fff;text-decoration:underline;text-underline-offset:7px;text-decoration-thickness:1px}
+body .site-nav a:hover{text-decoration:underline;text-underline-offset:7px}
+body .site-nav a:focus-visible{outline:1px solid white;outline-offset:5px}
+.postcard-home .site>main{padding-top:60px}
+@media(max-width:650px){body .site-nav{padding:16px 24px}.postcard-home .site>main{padding-top:60px}}
